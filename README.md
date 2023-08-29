@@ -1,5 +1,5 @@
 # river-run
-An original kayak game implemented with Python and UVA's gamebox library 
+An original kayak game implemented with Python and UVA's gamebox library... my first ever CS project.
 
 See it run:
 
